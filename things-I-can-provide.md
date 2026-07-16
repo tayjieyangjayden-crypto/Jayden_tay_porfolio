@@ -6,7 +6,7 @@ But I chose to apply for **Cybersecurity & Digital Forensics** at **Temasek Poly
 
 ---
 
-## 🔍Why Cybersecurity?
+## Why Cybersecurity?
 I have always enjoyed solving problems and figuring out how things work behind the scenes. To me, cybersecurity is like detective work—whether it is finding a vulnerability in a system or figuring out how a security breach happened (digital forensics). 
 
 I wanted to do something practical with this interest, which is why I started teaching myself the basics on **Hack The Box** and setting up this GitHub portfolio to track my progress.
