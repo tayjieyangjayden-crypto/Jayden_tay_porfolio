@@ -31,6 +31,6 @@ To prepare myself for polytechnic-level studies, I am currently teaching myself 
 
 [Check out my Personal Works](personal-works.md)
 
-[Look out my secondary school achievements](YYSS-achievements)
+[Look out my secondary school achievements](YYSS-achievements.md)
 
 [What i can provide](things-I-can-provide.md)
