@@ -1,6 +1,6 @@
 # Jayden's Cybersecurity Portfolio
 
-I use **Hack The Box (HTB)** to learn hands-on penetration testing, system administration, and network security.
+I use **Hack The Box (HTB)** to learn hands on penetration testing, system administration, and network security.
 
 ---
 
@@ -16,6 +16,6 @@ I am currently working through the **HTB Starting Point** machines to master the
 ---
 
 ## 🛠️ Tools I am Learning
-* **Nmap** (Network Scanning)
-* **Linux Terminal & Bash** (Command Line)
-* **Wireshark** (Packet Analysis)
+* **Nmap** Network Scanning
+* **Linux Terminal & Bash** Command Line
+* **Wireshark** Packet Analysis
