@@ -8,7 +8,7 @@ I am actively pursuing my passion for technology and security, with the ultimate
 
 ##  My Motivation & Interest
 
-My interest in cybersecurity stems from a love for problem-solving and critical thinking. I don't just want to use technology—I want to understand how it works at a deep level so I can protect and defend it. 
+My interest in cybersecurity stems from a interest for problem-solving and critical thinking. I don't just want to use technology, I want to understand how it works at a deep level so I can protect and defend it. I developed this interest from taking Innotech in my cca with my friends which led me to be more invested in things like cybersecurity and coding.
 
 I am fascinated by:
 * **Defensive Security (Blue Teaming):** Learning how to monitor systems, detect anomalies, and secure networks against unauthorized access.
@@ -27,7 +27,6 @@ To prepare myself for polytechnic-level studies, I am currently teaching myself 
 ---
 
 ## Explore My Work
-* [My Hack The Box Progress](./personal-works.md) 
 
 
 [Check out my Personal Works](personal-works.md)
