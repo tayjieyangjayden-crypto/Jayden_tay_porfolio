@@ -1,6 +1,6 @@
 
 
-Welcome to my portfolio! I am **Jayden Tay Jie Yang**, a Secondary 4 student at **Yuying Secondary School**. 
+Welcome to my portfolio, I am **Jayden Tay Jie Yang**, a Secondary 4 student at **Yuying Secondary School**. 
 
 I am actively pursuing my passion for technology and security, with the ultimate goal of gaining admission into the **Cybersecurity & Digital Forensics** diploma program at **Temasek Polytechnic** through EAE.
 
@@ -12,7 +12,7 @@ My interest in cybersecurity stems from a interest for problem-solving and criti
 
 I am fascinated by:
 * **Defensive Security (Blue Teaming):** Learning how to monitor systems, detect anomalies, and secure networks against unauthorized access.
-* **Digital Forensics (DFIR):** The "detective work" of IT—analyzing logs and system artifacts to piece together how a security incident occurred.
+* **Digital Forensics (DFIR):** The "detective work" of analyzing logs and system artifacts to piece together how a security incident occurred.
 * **Hands-on Labs:** Actively building my fundamental skills using platforms like **Hack The Box (HTB)** to learn real-world concepts.
 
 ---
