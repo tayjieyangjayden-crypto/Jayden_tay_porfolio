@@ -6,7 +6,7 @@ I am actively pursuing my passion for technology and security, with the ultimate
 
 ---
 
-## 🎯 My Motivation & Interest
+##  My Motivation & Interest
 
 My interest in cybersecurity stems from a love for problem-solving and critical thinking. I don't just want to use technology—I want to understand how it works at a deep level so I can protect and defend it. 
 
@@ -17,7 +17,7 @@ I am fascinated by:
 
 ---
 
-## 🛠️ What I am Actively Learning
+##  What I am Actively Learning
 To prepare myself for polytechnic-level studies, I am currently teaching myself the basics outside of my school curriculum:
 
 * **Operating Systems:** Getting comfortable using the Linux Command Line.
@@ -26,7 +26,7 @@ To prepare myself for polytechnic-level studies, I am currently teaching myself 
 
 ---
 
-## 📂 Explore My Work
+## Explore My Work
 * [My Hack The Box Progress](./personal-works.md) 
 
 
