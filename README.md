@@ -20,4 +20,4 @@ I am currently working through the **HTB Starting Point** machines to master the
 * **Linux Terminal & Bash** Command Line
 * **Wireshark** Packet Analysis
 
-[Read my past Acheivements](./htb-YYSS-Achievements.md)
+[Click here to view my YYSS Achievements](YYSS-achievements.md)
