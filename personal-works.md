@@ -4,7 +4,7 @@ I use **Hack The Box (HTB)** to learn hands on penetration testing, system admin
 
 ---
 
-## 🛡️ My Learning Path
+##  My Learning Path
 I am currently working through the **HTB Starting Point** machines to master the basics of network scanning, enumeration, and exploitation.
 
 ### Tier 0: Foundational Machines
@@ -15,7 +15,7 @@ I am currently working through the **HTB Starting Point** machines to master the
 
 ---
 
-## 🛠️ Tools I am Learning
+##  Tools I am Learning
 * **Nmap** Network Scanning
 * **Linux Terminal & Bash** Command Line
 * **Wireshark** Packet Analysis
