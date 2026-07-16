@@ -1,6 +1,6 @@
 # Jayden's Cybersecurity Portfolio
 
-Welcome! I am a cybersecurity student currently building my foundational skills. I use **Hack The Box (HTB)** to learn hands-on penetration testing, system administration, and network security.
+I use **Hack The Box (HTB)** to learn hands-on penetration testing, system administration, and network security.
 
 ---
 
